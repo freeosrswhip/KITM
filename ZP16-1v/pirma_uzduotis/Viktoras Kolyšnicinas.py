@@ -1,4 +1,4 @@
-n_anme = input("Įveskite savo vardą:")
-a_ge = input("Įveskite savo amžių:")
+name = input("Įveskite savo vardą:")
+age = input("Įveskite savo amžių:")
 
-print ("Jūsų vardas yra" + n_anme + "Jūsų amžius yra" + a_ge)
+print ("Jūsų vardas yra" + nanme + "Jūsų amžius yra" + age)
