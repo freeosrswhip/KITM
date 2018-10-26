@@ -1,0 +1,17 @@
+{
+  "pirkėjas_1": {
+    "apelsinai": 6,
+    "kriaušės": 4,
+    "bulvės": 1
+  },
+  "pirkėjas_2": {
+    "vyšnios": 9,
+    "bulvės": 2,
+    "obuoliai": 8
+  },
+  "pirkėjas_3": {
+    "bulvės": 6,
+    "vyšnios": 7,
+    "pomidorai": 9
+  }
+}
