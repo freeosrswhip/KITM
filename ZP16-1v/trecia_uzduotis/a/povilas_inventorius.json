@@ -1,0 +1,342 @@
+{
+  "parduotuve_8": {
+    "mandarinai": {
+      "darba": {
+        "nuo": "07:00", 
+        "iki": "24:00"
+      }, 
+      "kiekis": 5, 
+      "kaina": 1.33
+    }, 
+    "apelsinai": {
+      "darba": {
+        "nuo": "07:00", 
+        "iki": "18:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 2.31
+    }, 
+    "vysnios": {
+      "darba": {
+        "nuo": "12:00", 
+        "iki": "13:00"
+      }, 
+      "kiekis": 3, 
+      "kaina": 2.47
+    }, 
+    "kriauses": {
+      "darba": {
+        "nuo": "08:00", 
+        "iki": "21:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 1.36
+    }
+  }, 
+  "parduotuve_9": {
+    "mandarinai": {
+      "darba": {
+        "nuo": "12:00", 
+        "iki": "24:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 2.91
+    }, 
+    "kriauses": {
+      "darba": {
+        "nuo": "07:00", 
+        "iki": "24:00"
+      }, 
+      "kiekis": 3, 
+      "kaina": 2.35
+    }, 
+    "obuoliai": {
+      "darba": {
+        "nuo": "10:00", 
+        "iki": "18:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 2.48
+    }, 
+    "pomidorai": {
+      "darba": {
+        "nuo": "08:00", 
+        "iki": "20:00"
+      }, 
+      "kiekis": 5, 
+      "kaina": 1.26
+    }
+  }, 
+  "parduotuve_1": {
+    "vysnios": {
+      "darba": {
+        "nuo": "08:00", 
+        "iki": "15:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 1.88
+    }, 
+    "apelsinai": {
+      "darba": {
+        "nuo": "12:00", 
+        "iki": "14:00"
+      }, 
+      "kiekis": 3, 
+      "kaina": 3.0
+    }, 
+    "obuoliai": {
+      "darba": {
+        "nuo": "11:00", 
+        "iki": "14:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 2.97
+    }, 
+    "pomidorai": {
+      "darba": {
+        "nuo": "11:00", 
+        "iki": "19:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 2.97
+    }
+  }, 
+  "parduotuve_2": {
+    "apelsinai": {
+      "darba": {
+        "nuo": "08:00", 
+        "iki": "20:00"
+      }, 
+      "kiekis": 5, 
+      "kaina": 2.12
+    }, 
+    "pomidorai": {
+      "darba": {
+        "nuo": "07:00", 
+        "iki": "18:00"
+      }, 
+      "kiekis": 3, 
+      "kaina": 2.25
+    }, 
+    "obuoliai": {
+      "darba": {
+        "nuo": "10:00", 
+        "iki": "22:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 1.0
+    }, 
+    "bulves": {
+      "darba": {
+        "nuo": "07:00", 
+        "iki": "14:00"
+      }, 
+      "kiekis": 5, 
+      "kaina": 1.45
+    }
+  }, 
+  "parduotuve_3": {
+    "vysnios": {
+      "darba": {
+        "nuo": "11:00", 
+        "iki": "13:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 1.83
+    }, 
+    "kriauses": {
+      "darba": {
+        "nuo": "12:00", 
+        "iki": "19:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 2.02
+    }, 
+    "mandarinai": {
+      "darba": {
+        "nuo": "12:00", 
+        "iki": "19:00"
+      }, 
+      "kiekis": 3, 
+      "kaina": 1.97
+    }, 
+    "pomidorai": {
+      "darba": {
+        "nuo": "08:00", 
+        "iki": "24:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 2.24
+    }
+  }, 
+  "parduotuve_4": {
+    "apelsinai": {
+      "darba": {
+        "nuo": "07:00", 
+        "iki": "16:00"
+      }, 
+      "kiekis": 5, 
+      "kaina": 1.69
+    }, 
+    "pomidorai": {
+      "darba": {
+        "nuo": "10:00", 
+        "iki": "19:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 2.98
+    }, 
+    "kriauses": {
+      "darba": {
+        "nuo": "10:00", 
+        "iki": "16:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 1.73
+    }, 
+    "bulves": {
+      "darba": {
+        "nuo": "09:00", 
+        "iki": "23:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 1.56
+    }
+  }, 
+  "parduotuve_5": {
+    "mandarinai": {
+      "darba": {
+        "nuo": "11:00", 
+        "iki": "16:00"
+      }, 
+      "kiekis": 3, 
+      "kaina": 1.64
+    }, 
+    "kriauses": {
+      "darba": {
+        "nuo": "10:00", 
+        "iki": "22:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 1.39
+    }, 
+    "apelsinai": {
+      "darba": {
+        "nuo": "10:00", 
+        "iki": "14:00"
+      }, 
+      "kiekis": 5, 
+      "kaina": 3.0
+    }, 
+    "pomidorai": {
+      "darba": {
+        "nuo": "09:00", 
+        "iki": "19:00"
+      }, 
+      "kiekis": 5, 
+      "kaina": 1.02
+    }
+  }, 
+  "parduotuve_6": {
+    "mandarinai": {
+      "darba": {
+        "nuo": "11:00", 
+        "iki": "17:00"
+      }, 
+      "kiekis": 5, 
+      "kaina": 2.58
+    }, 
+    "pomidorai": {
+      "darba": {
+        "nuo": "09:00", 
+        "iki": "21:00"
+      }, 
+      "kiekis": 3, 
+      "kaina": 2.93
+    }, 
+    "obuoliai": {
+      "darba": {
+        "nuo": "08:00", 
+        "iki": "16:00"
+      }, 
+      "kiekis": 3, 
+      "kaina": 1.29
+    }, 
+    "bulves": {
+      "darba": {
+        "nuo": "11:00", 
+        "iki": "23:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 2.88
+    }
+  }, 
+  "parduotuve_7": {
+    "mandarinai": {
+      "darba": {
+        "nuo": "08:00", 
+        "iki": "23:00"
+      }, 
+      "kiekis": 3, 
+      "kaina": 1.14
+    }, 
+    "kriauses": {
+      "darba": {
+        "nuo": "12:00", 
+        "iki": "20:00"
+      }, 
+      "kiekis": 5, 
+      "kaina": 2.49
+    }, 
+    "obuoliai": {
+      "darba": {
+        "nuo": "09:00", 
+        "iki": "24:00"
+      }, 
+      "kiekis": 5, 
+      "kaina": 2.72
+    }, 
+    "bulves": {
+      "darba": {
+        "nuo": "11:00", 
+        "iki": "15:00"
+      }, 
+      "kiekis": 3, 
+      "kaina": 2.3
+    }
+  }, 
+  "parduotuve_10": {
+    "mandarinai": {
+      "darba": {
+        "nuo": "08:00", 
+        "iki": "18:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 1.41
+    }, 
+    "vysnios": {
+      "darba": {
+        "nuo": "08:00", 
+        "iki": "17:00"
+      }, 
+      "kiekis": 5, 
+      "kaina": 1.49
+    }, 
+    "apelsinai": {
+      "darba": {
+        "nuo": "11:00", 
+        "iki": "24:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 2.74
+    }, 
+    "bulves": {
+      "darba": {
+        "nuo": "12:00", 
+        "iki": "13:00"
+      }, 
+      "kiekis": 4, 
+      "kaina": 2.68
+    }
+  }
+}
