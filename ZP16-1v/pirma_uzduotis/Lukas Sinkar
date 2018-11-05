@@ -1,0 +1,4 @@
+name = input('Įveskite savo vardą:\n')
+age = input('Įveskite savo amžių:\n')
+
+print('Sveiki ' + name + ', jums yra ' + age + ' metu.')
