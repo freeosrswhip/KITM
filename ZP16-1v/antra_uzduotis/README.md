@@ -1,4 +1,4 @@
-Paleiskite inventory_generator.py scriptą, kad sugeneruotų 10 parduotuvių inventorių ir prekių kainas.
+aleiskite inventory_generator.py scriptą, kad sugeneruotų 10 parduotuvių inventorių ir prekių kainas.
 
     >python inventory_generator.py -f vardas_pavarde
     
