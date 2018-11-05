@@ -1,0 +1,20 @@
+{
+  "pirkėjas_1": {
+    "apelsinai": 4,
+    "vyšnios": 10,
+    "bulvės": 7,
+    "laikas": "18:09"
+  },
+  "pirkėjas_2": {
+    "vyšnios": 5,
+    "apelsinai": 2,
+    "mandarinai": 7,
+    "laikas": "14:34"
+  },
+  "pirkėjas_3": {
+    "pomidorai": 1,
+    "bulvės": 5,
+    "mandarinai": 4,
+    "laikas": "22:06"
+  }
+}
