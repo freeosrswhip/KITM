@@ -1,0 +1,342 @@
+{
+  "parduotuvė_1": {
+    "obuoliai": {
+      "kiekis": 3,
+      "kaina": 2.88,
+      "darba": {
+        "nuo": "12:00",
+        "iki": "13:00"
+      }
+    },
+    "kriaušės": {
+      "kiekis": 5,
+      "kaina": 1.0,
+      "darba": {
+        "nuo": "08:00",
+        "iki": "16:00"
+      }
+    },
+    "bulvės": {
+      "kiekis": 5,
+      "kaina": 1.24,
+      "darba": {
+        "nuo": "08:00",
+        "iki": "14:00"
+      }
+    },
+    "pomidorai": {
+      "kiekis": 5,
+      "kaina": 1.33,
+      "darba": {
+        "nuo": "10:00",
+        "iki": "14:00"
+      }
+    }
+  },
+  "parduotuvė_2": {
+    "bulvės": {
+      "kiekis": 5,
+      "kaina": 1.8,
+      "darba": {
+        "nuo": "07:00",
+        "iki": "20:00"
+      }
+    },
+    "pomidorai": {
+      "kiekis": 4,
+      "kaina": 1.12,
+      "darba": {
+        "nuo": "12:00",
+        "iki": "22:00"
+      }
+    },
+    "obuoliai": {
+      "kiekis": 5,
+      "kaina": 1.44,
+      "darba": {
+        "nuo": "10:00",
+        "iki": "23:00"
+      }
+    },
+    "vyšnios": {
+      "kiekis": 4,
+      "kaina": 2.31,
+      "darba": {
+        "nuo": "09:00",
+        "iki": "15:00"
+      }
+    }
+  },
+  "parduotuvė_3": {
+    "pomidorai": {
+      "kiekis": 4,
+      "kaina": 1.91,
+      "darba": {
+        "nuo": "07:00",
+        "iki": "13:00"
+      }
+    },
+    "mandarinai": {
+      "kiekis": 4,
+      "kaina": 2.43,
+      "darba": {
+        "nuo": "12:00",
+        "iki": "23:00"
+      }
+    },
+    "vyšnios": {
+      "kiekis": 5,
+      "kaina": 2.43,
+      "darba": {
+        "nuo": "08:00",
+        "iki": "20:00"
+      }
+    },
+    "apelsinai": {
+      "kiekis": 4,
+      "kaina": 1.59,
+      "darba": {
+        "nuo": "12:00",
+        "iki": "20:00"
+      }
+    }
+  },
+  "parduotuvė_4": {
+    "vyšnios": {
+      "kiekis": 5,
+      "kaina": 2.05,
+      "darba": {
+        "nuo": "10:00",
+        "iki": "13:00"
+      }
+    },
+    "bulvės": {
+      "kiekis": 5,
+      "kaina": 2.02,
+      "darba": {
+        "nuo": "08:00",
+        "iki": "19:00"
+      }
+    },
+    "kriaušės": {
+      "kiekis": 5,
+      "kaina": 2.8,
+      "darba": {
+        "nuo": "11:00",
+        "iki": "16:00"
+      }
+    },
+    "pomidorai": {
+      "kiekis": 4,
+      "kaina": 2.16,
+      "darba": {
+        "nuo": "11:00",
+        "iki": "21:00"
+      }
+    }
+  },
+  "parduotuvė_5": {
+    "vyšnios": {
+      "kiekis": 4,
+      "kaina": 2.63,
+      "darba": {
+        "nuo": "07:00",
+        "iki": "18:00"
+      }
+    },
+    "apelsinai": {
+      "kiekis": 5,
+      "kaina": 2.13,
+      "darba": {
+        "nuo": "08:00",
+        "iki": "16:00"
+      }
+    },
+    "pomidorai": {
+      "kiekis": 5,
+      "kaina": 2.6,
+      "darba": {
+        "nuo": "10:00",
+        "iki": "14:00"
+      }
+    },
+    "bulvės": {
+      "kiekis": 5,
+      "kaina": 2.85,
+      "darba": {
+        "nuo": "09:00",
+        "iki": "14:00"
+      }
+    }
+  },
+  "parduotuvė_6": {
+    "bulvės": {
+      "kiekis": 3,
+      "kaina": 1.63,
+      "darba": {
+        "nuo": "11:00",
+        "iki": "16:00"
+      }
+    },
+    "pomidorai": {
+      "kiekis": 3,
+      "kaina": 1.59,
+      "darba": {
+        "nuo": "09:00",
+        "iki": "20:00"
+      }
+    },
+    "mandarinai": {
+      "kiekis": 5,
+      "kaina": 1.1,
+      "darba": {
+        "nuo": "09:00",
+        "iki": "23:00"
+      }
+    },
+    "apelsinai": {
+      "kiekis": 5,
+      "kaina": 2.58,
+      "darba": {
+        "nuo": "11:00",
+        "iki": "23:00"
+      }
+    }
+  },
+  "parduotuvė_7": {
+    "apelsinai": {
+      "kiekis": 3,
+      "kaina": 2.54,
+      "darba": {
+        "nuo": "11:00",
+        "iki": "17:00"
+      }
+    },
+    "obuoliai": {
+      "kiekis": 3,
+      "kaina": 2.57,
+      "darba": {
+        "nuo": "08:00",
+        "iki": "14:00"
+      }
+    },
+    "pomidorai": {
+      "kiekis": 3,
+      "kaina": 2.86,
+      "darba": {
+        "nuo": "07:00",
+        "iki": "13:00"
+      }
+    },
+    "kriaušės": {
+      "kiekis": 5,
+      "kaina": 1.98,
+      "darba": {
+        "nuo": "11:00",
+        "iki": "23:00"
+      }
+    }
+  },
+  "parduotuvė_8": {
+    "bulvės": {
+      "kiekis": 3,
+      "kaina": 1.43,
+      "darba": {
+        "nuo": "11:00",
+        "iki": "16:00"
+      }
+    },
+    "kriaušės": {
+      "kiekis": 3,
+      "kaina": 2.94,
+      "darba": {
+        "nuo": "09:00",
+        "iki": "13:00"
+      }
+    },
+    "apelsinai": {
+      "kiekis": 4,
+      "kaina": 2.75,
+      "darba": {
+        "nuo": "12:00",
+        "iki": "15:00"
+      }
+    },
+    "mandarinai": {
+      "kiekis": 5,
+      "kaina": 2.95,
+      "darba": {
+        "nuo": "10:00",
+        "iki": "21:00"
+      }
+    }
+  },
+  "parduotuvė_9": {
+    "apelsinai": {
+      "kiekis": 4,
+      "kaina": 1.04,
+      "darba": {
+        "nuo": "11:00",
+        "iki": "19:00"
+      }
+    },
+    "kriaušės": {
+      "kiekis": 4,
+      "kaina": 1.1,
+      "darba": {
+        "nuo": "11:00",
+        "iki": "17:00"
+      }
+    },
+    "bulvės": {
+      "kiekis": 4,
+      "kaina": 1.71,
+      "darba": {
+        "nuo": "08:00",
+        "iki": "18:00"
+      }
+    },
+    "vyšnios": {
+      "kiekis": 4,
+      "kaina": 1.72,
+      "darba": {
+        "nuo": "12:00",
+        "iki": "13:00"
+      }
+    }
+  },
+  "parduotuvė_10": {
+    "mandarinai": {
+      "kiekis": 3,
+      "kaina": 2.76,
+      "darba": {
+        "nuo": "11:00",
+        "iki": "23:00"
+      }
+    },
+    "pomidorai": {
+      "kiekis": 4,
+      "kaina": 1.38,
+      "darba": {
+        "nuo": "10:00",
+        "iki": "19:00"
+      }
+    },
+    "vyšnios": {
+      "kiekis": 5,
+      "kaina": 1.49,
+      "darba": {
+        "nuo": "09:00",
+        "iki": "22:00"
+      }
+    },
+    "kriaušės": {
+      "kiekis": 4,
+      "kaina": 1.01,
+      "darba": {
+        "nuo": "11:00",
+        "iki": "22:00"
+      }
+    }
+  }
+}
