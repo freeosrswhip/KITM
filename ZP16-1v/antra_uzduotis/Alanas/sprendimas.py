@@ -13,10 +13,10 @@ def versti(pavadinimas):
     return pavadinimas
 
 
-with open("edvardas_inventorius.json", 'r', encoding='utf-8') as failas:
+with open("Alanas_inventorius.json", 'r', encoding='utf-8') as failas:
     inventorius = json.load(failas)
 
-with open("edvardas_pirkėjai.json", 'r', encoding='utf-8') as failas:
+with open("Alanas_pirkėjai.json", 'r', encoding='utf-8') as failas:
     pirkėjai = json.load(failas)
 
 sarasas = []
