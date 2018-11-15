@@ -1,0 +1,182 @@
+{
+  "parduotuvė_1": {
+    "pomidorai": {
+      "kiekis": 5,
+      "kaina": 2.36
+    },
+    "obuoliai": {
+      "kiekis": 5,
+      "kaina": 1.3
+    },
+    "vyšnios": {
+      "kiekis": 5,
+      "kaina": 2.81
+    },
+    "apelsinai": {
+      "kiekis": 3,
+      "kaina": 2.32
+    }
+  },
+  "parduotuvė_2": {
+    "vyšnios": {
+      "kiekis": 4,
+      "kaina": 2.93
+    },
+    "bulvės": {
+      "kiekis": 3,
+      "kaina": 2.36
+    },
+    "pomidorai": {
+      "kiekis": 3,
+      "kaina": 2.38
+    },
+    "obuoliai": {
+      "kiekis": 5,
+      "kaina": 2.99
+    }
+  },
+  "parduotuvė_3": {
+    "apelsinai": {
+      "kiekis": 5,
+      "kaina": 1.08
+    },
+    "vyšnios": {
+      "kiekis": 3,
+      "kaina": 2.92
+    },
+    "pomidorai": {
+      "kiekis": 5,
+      "kaina": 1.92
+    },
+    "mandarinai": {
+      "kiekis": 3,
+      "kaina": 1.75
+    }
+  },
+  "parduotuvė_4": {
+    "vyšnios": {
+      "kiekis": 4,
+      "kaina": 2.14
+    },
+    "mandarinai": {
+      "kiekis": 4,
+      "kaina": 1.52
+    },
+    "kriaušės": {
+      "kiekis": 4,
+      "kaina": 2.21
+    },
+    "apelsinai": {
+      "kiekis": 4,
+      "kaina": 2.7
+    }
+  },
+  "parduotuvė_5": {
+    "kriaušės": {
+      "kiekis": 3,
+      "kaina": 1.86
+    },
+    "mandarinai": {
+      "kiekis": 5,
+      "kaina": 2.64
+    },
+    "pomidorai": {
+      "kiekis": 5,
+      "kaina": 2.38
+    },
+    "obuoliai": {
+      "kiekis": 4,
+      "kaina": 1.76
+    }
+  },
+  "parduotuvė_6": {
+    "kriaušės": {
+      "kiekis": 4,
+      "kaina": 1.0
+    },
+    "vyšnios": {
+      "kiekis": 4,
+      "kaina": 2.77
+    },
+    "obuoliai": {
+      "kiekis": 5,
+      "kaina": 2.99
+    },
+    "mandarinai": {
+      "kiekis": 5,
+      "kaina": 1.02
+    }
+  },
+  "parduotuvė_7": {
+    "pomidorai": {
+      "kiekis": 3,
+      "kaina": 2.86
+    },
+    "obuoliai": {
+      "kiekis": 5,
+      "kaina": 1.72
+    },
+    "kriaušės": {
+      "kiekis": 4,
+      "kaina": 1.68
+    },
+    "mandarinai": {
+      "kiekis": 4,
+      "kaina": 1.15
+    }
+  },
+  "parduotuvė_8": {
+    "vyšnios": {
+      "kiekis": 5,
+      "kaina": 1.18
+    },
+    "mandarinai": {
+      "kiekis": 4,
+      "kaina": 2.92
+    },
+    "kriaušės": {
+      "kiekis": 5,
+      "kaina": 2.8
+    },
+    "pomidorai": {
+      "kiekis": 3,
+      "kaina": 1.12
+    }
+  },
+  "parduotuvė_9": {
+    "kriaušės": {
+      "kiekis": 5,
+      "kaina": 2.04
+    },
+    "apelsinai": {
+      "kiekis": 4,
+      "kaina": 3.0
+    },
+    "bulvės": {
+      "kiekis": 4,
+      "kaina": 1.07
+    },
+    "mandarinai": {
+      "kiekis": 4,
+      "kaina": 2.69
+    }
+  },
+  "parduotuvė_10": {
+    "kriaušės": {
+      "kiekis": 4,
+      "kaina": 1.44
+    },
+    "mandarinai": {
+      "kiekis": 5,
+      "kaina": 2.01
+    },
+    "bulvės": {
+      "kiekis": 4,
+      "kaina": 1.37
+    },
+    "obuoliai": {
+      "kiekis": 3,
+      "kaina": 2.23
+    }
+  }
+}
